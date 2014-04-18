@@ -1,0 +1,31 @@
+.alert {
+    padding: 10px;
+}
+
+.creneau-30min {
+    min-height: 80px;
+}
+
+.creneau {
+    min-height: 80px;
+}
+
+.alert-violet {
+    background-image: linear-gradient(to bottom, #d8c7fa 0px, #d4bed7 100%);
+    background-repeat: repeat-x;
+    border-color: #b9a9ff;
+    background-color: #d8c7fa;
+    color: #5757ad;
+}
+
+.alert-orange {
+    background-image: linear-gradient(to bottom, #ffd58d 0px, #ffd486 100%);
+    background-repeat: repeat-x;
+    border-color: #ffc07d;
+    background-color: #ffd58d;
+    color: #cc8831;
+}
+
+.container-fluid {
+    text-align: center;
+}
