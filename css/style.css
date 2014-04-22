@@ -3,10 +3,10 @@
 }
 
 .creneau-30min {
-    min-height: 80px;
+    min-height: 35px;
 }
 
-.creneau {
+.creneau-1h {
     min-height: 80px;
 }
 
@@ -26,10 +26,7 @@
     color: #cc8831;
 }
 
-.container-fluid {
-    text-align: center;
-}
-
 .blue {
     color: #428BCA;
 }
+
