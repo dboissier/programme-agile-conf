@@ -9,18 +9,6 @@
     margin-bottom: 5px;
 }
 
-.alert-violet {
-    border-color: #b9a9ff;
-    background-color: #d8c7fa;
-    color: #5757ad;
-}
-
-.alert-orange {
-    border-color: #ffc07d;
-    background-color: #ffd58d;
-    color: #cc8831;
-}
-
 table {
     border-collapse:inherit;
     border-spacing: 5px;
@@ -54,7 +42,7 @@ td a {
 .orange {
     border-color: #ffc07d;
     background-color: #ffd58d;
-    color: #cc8831;
+    color: #cc7027;
 }
 
 .violet {
